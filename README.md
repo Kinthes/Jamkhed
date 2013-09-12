@@ -1,4 +1,4 @@
 Jamkhed
 =======
 
-shoot'em up android
+shoot'em up 
